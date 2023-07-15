@@ -1,0 +1,1 @@
+let userWord = prompt('Как зовут ')
